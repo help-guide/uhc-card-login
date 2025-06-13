@@ -108,10 +108,10 @@ The UnitedHealthcare member portal is your all-in-one digital platform to:
 Step-by-Step: UnitedHealthcare Login Guide
 -------------------------------------------
 
-✅ **Step 1: Open Your Browser**  
-✅ **Step 2: Visit:** `www.myuhc.com <https://www.myuhc.com>`_  
-✅ **Step 3: Click on “Sign In”**  
-✅ **Step 4: Enter Username & Password**
+* ** Open Your Browser**  
+* ** Visit:** `www.myuhc.com <https://www.myuhc.com>`_  
+* ** Click on “Sign In”**  
+* ** Enter Username & Password**
 
 Forgot Login Details?
 ----------------------
@@ -124,12 +124,12 @@ Click “Forgot Username” or “Forgot Password” on the login page.
 Key Benefits of the UHC Login Portal
 --------------------------------------
 
-🔒 **Digital ID Cards**  
-💊 **Prescription Coverage Info**  
-📄 **Medical Claim History**  
-🧾 **Deductibles & Expenses Tracking**  
-🧑‍⚕️ **Find In-Network Providers**  
-🎯 **Wellness and Rewards Programs**
+* **Digital ID Cards**  
+* **Prescription Coverage Info**  
+* **Medical Claim History**  
+* **Deductibles & Expenses Tracking**  
+* **Find In-Network Providers**  
+* **Wellness and Rewards Programs**
 
 Portal Security Features
 -------------------------

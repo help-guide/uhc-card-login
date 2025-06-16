@@ -157,18 +157,23 @@ Login Portal – FAQs
 =====================
 
 **Q1: Is there a mobile app for UHC login?**  
+
 Yes! Search “UnitedHealthcare” in the App Store or Google Play.
 
-**Q2: I forgot my password—what now?**  
+**Q2: I forgot my password—what now?**
+
 Click “Forgot Password” on the login page and follow the reset instructions.
 
-**Q3: Can I see claims online?**  
+**Q3: Can I see claims online?** 
+
 Absolutely! Navigate to the “Claims & Accounts” tab after logging in.
 
-**Q4: Is it safe to log in on mobile?**  
+**Q4: Is it safe to log in on mobile?**
+
 Yes, the mobile app uses the same secure authentication as the website.
 
-**Q5: Can providers also log in?**  
+**Q5: Can providers also log in?** 
+
 Yes. Providers should use: `https://www.uhcprovider.com <#>`_
 
 Final Thoughts

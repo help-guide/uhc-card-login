@@ -2,7 +2,7 @@
 Activate.uhc.com
 ===============================
 
-Visit `activate.uhc.com <https://activate.uhc.com>`_ to activate your UnitedHealthcare (UHC) card in minutes! Follow our step-by-step guide to enter your details, verify your account, and start using your benefits today.
+Visit `activate.uhc.com <#>`_ to activate your UnitedHealthcare (UHC) card in minutes! Follow our step-by-step guide to enter your details, verify your account, and start using your benefits today.
 
 .. raw:: html
 
@@ -30,20 +30,20 @@ To activate your card, visit the official UHC activation page:
 2. Steps to Activate Your UHC Card
 -----------------------------------
 
-✅ **Step 1: Visit activate.uhc.com**  
+**Step 1: Visit activate.uhc.com**  
 Go to the official activation page and click on the activation link.
 
-✅ **Step 2: Enter Your Card Details**  
+**Step 2: Enter Your Card Details**  
 Provide the following:
 
 - UHC card number  
 - Personal identification details (e.g., date of birth)  
 - UHC member ID
 
-✅ **Step 3: Verify and Submit**  
+**Step 3: Verify and Submit**  
 Review your info and hit **“Activate”**.
 
-✅ **Step 4: Confirmation**  
+**Step 4: Confirmation**  
 You'll see a success message when done—your card is now active.
 
 3. Troubleshooting Activation Issues
@@ -52,39 +52,44 @@ You'll see a success message when done—your card is now active.
 - **Double-check details** — Card number and DOB must be accurate  
 - **Stable internet** — A strong connection ensures smooth access  
 - **Pop-up blocker** — Disable it if the page isn’t loading  
-- **Contact Support** — Help is available at: `activate.uhc.com <https://activate.uhc.com>`_
+- **Contact Support** — Help is available at: `activate.uhc.com <#>`_
 
 4. Benefits of Your UHC Card
 -----------------------------
 
-💳 **Doctor Visits & Prescriptions** — Access covered services  
-💳 **Digital Account Tools** — Track benefits and claims online  
-💳 **Exclusive Rewards** — Discounts on wellness services and programs
+*  **Doctor Visits & Prescriptions** — Access covered services  
+*  **Digital Account Tools** — Track benefits and claims online  
+*  **Exclusive Rewards** — Discounts on wellness services and programs
 
 5. Final Thoughts
 ------------------
 
 Activating your card is the first step to managing your healthcare. Don’t wait—visit  
-`https://activate.uhc.com <https://activate.uhc.com>`_ and start enjoying your UHC benefits today!
+`https://activate.uhc.com <#>`_ and start enjoying your UHC benefits today!
 
 Card Activation – FAQs
 =======================
 
 **1. Where do I activate my UHC card?**  
-At `https://activate.uhc.com <https://activate.uhc.com>`_
 
-**2. What do I need for activation?**  
-- ✅ UHC card number  
-- ✅ DOB or personal info  
-- ✅ Member ID
+At `https://activate.uhc.com <#>`_
+
+**2. What do I need for activation?**
+
+- UHC card number  
+- DOB or personal info  
+- Member ID
 
 **3. How long does it take?**  
+
 Just a few minutes — it's instant!
 
 **4. Trouble activating?**  
+
 Try fixing the input, internet issues, or contact support.
 
 **5. Mobile-friendly?**  
+
 Yes! You can activate on any smartphone or tablet.
 
 -------------------------------------------------------
@@ -140,7 +145,7 @@ UnitedHealthcare protects your data using:
 - Multi-factor authentication  
 - Secure U.S.-based servers
 
-⚠️ **Always log in through official domains like:**  
+ **Always log in through official domains like:**  
 `myuhc.com`, `uhc.com`, or `uhcprovider.com`
 
 My Experience with UnitedHealthcare Login
@@ -164,10 +169,10 @@ Absolutely! Navigate to the “Claims & Accounts” tab after logging in.
 Yes, the mobile app uses the same secure authentication as the website.
 
 **Q5: Can providers also log in?**  
-Yes. Providers should use: `https://www.uhcprovider.com <https://www.uhcprovider.com>`_
+Yes. Providers should use: `https://www.uhcprovider.com <#>`_
 
 Final Thoughts
 ----------------
 
-The UnitedHealthcare login portal is essential for managing your health benefits easily and securely. Whether it’s finding doctors, checking claims, or accessing wellness tools, this platform makes it seamless. If you haven’t already, go to `www.myuhc.com <https://www.myuhc.com>`_ and simplify your healthcare experience today.
+The UnitedHealthcare login portal is essential for managing your health benefits easily and securely. Whether it’s finding doctors, checking claims, or accessing wellness tools, this platform makes it seamless. If you haven’t already, go to `www.myuhc.com <#>`_ and simplify your healthcare experience today.
 

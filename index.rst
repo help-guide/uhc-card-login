@@ -10,7 +10,7 @@ Visit `activate.uhc.com <#>`_ to activate your UnitedHealthcare (UHC) card in mi
 
 .. image:: Button.png
    :alt: Activate.uhc.com
-   :target: https://sites.google.com/view/brotherprinterdrivers-download/
+   :target: https://activate-uhc-com.webflow.io/
 
 .. raw:: html
 
